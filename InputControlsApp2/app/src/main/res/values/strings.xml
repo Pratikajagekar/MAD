@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InputControlsApp</string>
+
+    <string-array name="names">
+        <item>JAVA</item>
+        <item>PHP</item>
+        <item>HTML</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmartConvertPro</string>
+    <string-array name="units">
+        <item>Meter</item>
+        <item>Kilometer</item>
+        <item>Centimeter</item>
+    </string-array>
+</resources>
