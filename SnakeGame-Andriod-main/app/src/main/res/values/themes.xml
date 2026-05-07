@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+<<<<<<< HEAD
+    <style name="Base.Theme.TySnake" parent="Theme.Material3.DayNight.NoActionBar">
+=======
+    <style name="Base.Theme.ConstraintLayoutApp" parent="Theme.Material3.DayNight.NoActionBar">
+>>>>>>> 31197c57650b5d598651ad5acee59082671cef5e
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+<<<<<<< HEAD
+    <style name="Theme.TySnake" parent="Base.Theme.TySnake" />
+=======
+    <style name="Theme.ConstraintLayoutApp" parent="Base.Theme.ConstraintLayoutApp" />
+>>>>>>> 31197c57650b5d598651ad5acee59082671cef5e
+</resources>

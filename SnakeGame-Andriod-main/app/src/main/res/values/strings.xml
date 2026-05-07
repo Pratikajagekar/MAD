@@ -1,0 +1,7 @@
+<resources>
+<<<<<<< HEAD
+    <string name="app_name">TySnake</string>
+=======
+    <string name="app_name">ConstraintLayoutApp</string>
+>>>>>>> 31197c57650b5d598651ad5acee59082671cef5e
+</resources>

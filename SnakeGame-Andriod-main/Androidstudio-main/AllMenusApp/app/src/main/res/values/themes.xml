@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AllMenusApp" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your light theme her[--->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.AllMenusApp" parent="Base.Theme.AllMenusApp" />
+</resources>
